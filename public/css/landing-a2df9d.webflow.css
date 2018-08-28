@@ -627,6 +627,7 @@ p {
   position: relative;
   z-index: 2;
   width: 85%;
+  max-width:700px;
 }
 
 .paragraph-2 {
