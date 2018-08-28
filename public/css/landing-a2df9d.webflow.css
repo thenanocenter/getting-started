@@ -855,8 +855,6 @@ p {
 
 @media (max-width: 767px) {
   .logo {
-    margin-right: auto;
-    margin-left: auto;
     -webkit-box-pack: start;
     -webkit-justify-content: flex-start;
     -ms-flex-pack: start;
