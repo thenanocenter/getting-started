@@ -265,6 +265,22 @@ p {
   box-shadow: 0 6px 12px 0 rgba(0, 0, 0, .2);
 }
 
+.button-faucet {
+  margin-top: 20px;
+  padding: 15px 25px;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 1px 0 0 transparent;
+  -webkit-transition: box-shadow 200ms ease;
+  transition: box-shadow 200ms ease;
+  color: #000;
+  font-weight: 500;
+}
+
+.button-faucet:hover {
+  box-shadow: 0 6px 12px 0 rgba(0, 0, 0, .2);
+}
+
 .class {
   margin-right: 2px;
   margin-left: 2px;
