@@ -796,7 +796,7 @@ p {
 
 .button-faucet{
   color:#FFF;
-  background-color: #4a90e2;
+  background-color: #ff4f3f;
   text-decoration:none;
   display: -webkit-box;
   display: -webkit-flex;
@@ -813,7 +813,7 @@ p {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 300px;
-  background-color: #8aa9ef;
+  background-color: #ff4f3f;
   font-family: Nunito, sans-serif;
 }
 
