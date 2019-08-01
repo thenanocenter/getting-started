@@ -849,6 +849,11 @@ p {
   font-family: Nunito, sans-serif;
 }
 
+.btn.natrium {
+  background-color: #A3CDFF;
+}
+
+
 .btn.nanovault {
   background-color: #fff;
   text-decoration: none;
